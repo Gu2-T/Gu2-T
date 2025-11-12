@@ -22,31 +22,43 @@ I aim to bridge creativity and logic through code.
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 Tech Stack
 
-#### ⚙️ Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,nestjs" />
+#### 🖥 Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 </p>
 
-#### 🌐 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nuxt,nextjs,react,vue,tailwind,typescript,javascript" />
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-#### 📱 Mobile  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+#### 📱 Mobile
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-#### 🗄️ Database  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+#### 🗄 Database
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-#### 🧰 Tools & Platforms  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,linux,vercel,postman" />
+#### 🧰 Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
