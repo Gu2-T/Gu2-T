@@ -82,10 +82,6 @@ I aim to bridge creativity and logic through code.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gu2-T&repo=My-portfolio&theme=radical" />
   </a>
 
-  <!-- Employee Management System -->
-  <a href="https://github.com/Gu2-T/employee-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gu2-T&repo=employee-management-system&theme=radical" />
-  </a>
 
 </p>
 
@@ -130,13 +126,11 @@ _April 2024 – August 2024_
 ### 📜 Certifications & Education
 
 **🎓 B.Sc. Software Engineering** | Wachemo University (2021-2025)  
-- CGPA: 3.01 | National Exit Exam: 60%
 
 **📊 Data Analysis Fundamentals** | Udacity (July 2025)  
 - Python, SQL, Data Wrangling, Exploratory Data Analysis
 
-**🏆 Ethiopian General Secondary Education Certificate**  
-- Great Distinction (10 Subjects)
+
 
 ---
 
@@ -161,12 +155,6 @@ _April 2024 – August 2024_
 - **Data Engineering** concepts and tools
 
 ---
-
-### 🌐 Languages
-
-- **English** (Fluent)
-- **Amharic** (Fluent) 
-- **Afan Oromo** (Native)
 
 ---
 
