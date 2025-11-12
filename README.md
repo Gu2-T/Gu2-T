@@ -1,4 +1,8 @@
 <!-- HEADER -->
+<p align="center">
+  <img src="https://github.com/Gu2-T/Gu2-T/blob/main/assets/banner-dark.png" width="100%" alt="Gutu Tamiru Banner" />
+</p>
+
 <h1 align="center">👋 Hello, I'm <strong>Gutu Tamiru Abdisa</strong></h1>
 <h3 align="center">Software Engineer | Full Stack Developer | Mobile App Developer | Aspiring Data Engineer</h3>
 
