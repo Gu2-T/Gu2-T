@@ -1,93 +1,112 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Gutu Tamiru Abdisa</h1>
-<h3 align="center">Software Engineer | Full Stack Developer | Backend | Mobile App | Data Engineering</h3>
+<p align="center">
+  <img src="https://github.com/Gu2-T/Gu2-T/blob/main/assets/banner-dark.png" width="100%" alt="Gutu Tamiru Banner" />
+</p>
+
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Gutu Tamiru Abdisa</span></h1>
+<h3 align="center">💻 Software Engineer | Full Stack Developer | Backend & Mobile | Data Engineering Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:gututamiru2011@gmail.com"><img src="https://img.shields.io/badge/Email-gututamiru2011%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/gutu-tamiru-377b74360"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin"></a>
-  <a href="https://gu2-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Website-purple?style=flat-square&logo=vercel"></a>
-  <a href="https://github.com/Gu2-T"><img src="https://img.shields.io/badge/GitHub-Gu2--T-black?style=flat-square&logo=github"></a>
+  <a href="mailto:gututamiru2011@gmail.com"><img src="https://img.shields.io/badge/Email-gututamiru2011%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gutu-tamiru-377b74360"><img src="https://img.shields.io/badge/LinkedIn-Gutu%20Tamiru-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://gu2-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-6f42c1?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/Gu2-T"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me  
 
-I'm a passionate **Software Engineer** who loves solving real-world problems with clean and scalable code.  
-I specialize in **backend, frontend, and mobile app development**, with growing experience in **data engineering**.  
-I’m constantly learning new technologies, contributing to open-source projects, and building digital solutions that matter.
+I’m a passionate **Software Engineer** dedicated to crafting efficient and scalable digital products.  
+With a strong foundation in **backend systems**, **frontend integration**, and **mobile app development**,  
+I aim to bridge creativity and logic through code.  
 
-💡 *"Code is not just logic — it’s creativity expressed through structure."*
+💡 *"Code isn’t just syntax — it’s the art of building ideas into experiences."*
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack  
 
-#### 🖥️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+#### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,nestjs" />
 </p>
 
-#### 🌐 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+#### 🌐 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nuxt,nextjs,react,vue,tailwind,typescript,javascript" />
 </p>
 
-#### 📱 Mobile
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+#### 📱 Mobile  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-#### 🗄️ Database
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+#### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-#### 🧰 Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+#### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,linux,vercel,postman" />
 </p>
 
 ---
 
-### 🌍 Featured Projects
+### 🌍 Featured Projects  
 
 #### 🧹 [Maid Finder System](https://github.com/Gu2-T/MaidFinder-Backend)
-A platform that connects households with verified maids, featuring role-based access control, profile verification, and secure authentication using **Laravel**.
+> A digital platform that connects households with verified maids.  
+> Built using **Laravel**, featuring **role-based access control**, **profile verification**, and **secure APIs**.
 
-#### 🧑‍💼 Employee Management System
-Manages employee profiles, attendance, and roles using **Laravel** and **Vue.js** with JWT authentication.
+#### 👥 [Employee Management System](#)
+> A web app for managing employees, attendance, and roles using **Laravel + Vue.js** with **JWT authentication**.
 
-#### 🔍 Reunited Us
-A missing person tracking system with admin approval and reporting workflows, built with **Laravel API + Nuxt.js frontend**.
+#### 🔎 [Reunited Us](#)
+> A missing-person management platform built with **Laravel API + Nuxt.js frontend** supporting **photo uploads** and **admin reviews**.
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gu2-T&show_icons=true&theme=radical" alt="Gutu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu2-T&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Gu2-T&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Gu2-T&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&hide_border=true&area=true" width="100%">
 </p>
 
 ---
 
-### 🤝 Let’s Connect
-📧 **Email:** [gututamiru2011@gmail.com](mailto:gututamiru2011@gmail.com)  
-🔗 **Portfolio:** [gu2-portfolio.vercel.app](https://gu2-portfolio.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/gutu-tamiru-377b74360](https://linkedin.com/in/gutu-tamiru-377b74360)
+### 🧭 Currently Exploring  
+
+- Advanced **Next.js 15** & **Server Actions**  
+- **Microservices** and **Scalable APIs**  
+- **CI/CD** pipelines & **DevOps tools** like Docker and Jenkins  
 
 ---
 
-⭐ **“Code, Learn, Build — Repeat.”**
+### 🤝 Let’s Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gutu-tamiru-377b74360"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
+  <a href="mailto:gututamiru2011@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="48"/></a>
+  <a href="https://github.com/Gu2-T"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
+  <a href="https://gu2-portfolio.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="48"/></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> I build systems that help people — not just apps that look good.  
+
+---
+
+<h3 align="center">⭐ “Code. Learn. Build. Grow.” ⭐</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
