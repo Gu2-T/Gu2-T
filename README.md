@@ -11,76 +11,57 @@
 
 ---
 
-### 🚀 About Me
-I’m a **Software Engineer** passionate about solving real-world problems through scalable and maintainable software.
+### 🚀 About Me  
 
-I love building:
-- ✅ Full Stack Web Applications
-- ✅ Mobile Applications (Flutter)
-- ✅ REST APIs (Laravel | FastAPI | Node.js)
+I’m a passionate **Software Engineer** dedicated to crafting efficient and scalable digital products.  
+With a strong foundation in **backend systems**, **frontend integration**, and **mobile app development**,  
+I aim to bridge creativity and logic through code.  
 
-💡 I believe **“Code. Learn. Build. Repeat.”**
+💡 *"Code isn’t just syntax — it’s the art of building ideas into experiences."*
+
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 Tech Stack  
 
-#### 🖥 Backend
-<p>
-  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+#### ⚙️ Backend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,express,nestjs" />
 </p>
 
-#### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+#### 🌐 Frontend  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nuxt,nextjs,react,vue,tailwind,typescript,javascript" />
 </p>
 
-#### 📱 Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+#### 📱 Mobile  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-#### 🗄 Database
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+#### 🗄️ Database  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 </p>
 
-#### 🧰 Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+#### 🧰 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,linux,vercel,postman" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🌍 Featured Projects  
 
-#### 🧹 Maid Finder System
-🔗 Repo: https://github.com/Gu2-T/MaidFinder-Backend  
-✔ Role-based Access  
-✔ Maid Verification System  
-✔ REST API with Laravel
+#### 🧹 [Maid Finder System](https://github.com/Gu2-T/MaidFinder-Backend)
+> A digital platform that connects households with verified maids.  
+> Built using **Laravel**, featuring **role-based access control**, **profile verification**, and **secure APIs**.
 
-#### 🔍 Reunited Us (Missing Person System)
-🔗 Repo: https://github.com/Gu2-T/ReunitedUs  
-✔ Admin approval workflow  
-✔ Laravel API + Nuxt.js UI
+#### 👥 [Employee Management System](#)
+> A web app for managing employees, attendance, and roles using **Laravel + Vue.js** with **JWT authentication**.
 
-#### 👨‍💼 Employee Management System
-🔗 Repo: https://github.com/Gu2-T/Employee-Management-System  
-✔ JWT Authentication  
-✔ Attendance & Role Management
+#### 🔎 [Reunited Us](#)
+> A missing-person management platform built with **Laravel API + Nuxt.js frontend** supporting **photo uploads** and **admin reviews**.
 
 ---
 
@@ -141,18 +122,11 @@ I love building:
 </p>
 
 ---
+### 🧭 Currently Exploring  
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gu2-T&theme=radical&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&area=true&hide_border=true" />
-</p>
+- Advanced **Next.js 15** & **Server Actions**  
+- **Microservices** and **Scalable APIs**  
+- **CI/CD** pipelines & **DevOps tools** like Docker and Jenkins  
 
 ---
 
@@ -163,4 +137,13 @@ I love building:
 
 ---
 
-⭐ _“Code. Learn. Build. Repeat.”_
+### ⚡ Fun Fact  
+> I build systems that help people — not just apps that look good.  
+
+---
+
+<h3 align="center">⭐ “Code. Learn. Build. Grow.” ⭐</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
