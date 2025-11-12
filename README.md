@@ -76,13 +76,10 @@ I aim to bridge creativity and logic through code.
 ### 📌 🔥 Pinned Projects
 
 <p align="center">
-
   <!-- Portfolio -->
   <a href="https://github.com/Gu2-T/My-portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gu2-T&repo=My-portfolio&theme=radical" />
   </a>
-
-
 </p>
 
 ---
@@ -90,7 +87,6 @@ I aim to bridge creativity and logic through code.
 ### 🌍 Collaborated Projects (Team / Company Work)
 
 <p align="center">
-
   <!-- Maid Finder System -->
   <a href="https://github.com/kenaolb/MaidFinder-Frontend" target="_blank">
     <img height="140" src="https://img.shields.io/badge/MaidFinder-Frontend-00C853?style=for-the-badge&logo=vue.js&logoColor=white" />
@@ -108,7 +104,6 @@ I aim to bridge creativity and logic through code.
   <a href="https://github.com/ewenet-communication/Reunite-Us-Frontend" target="_blank">
     <img height="140" src="https://img.shields.io/badge/ReuniteUs-Frontend-00E676?style=for-the-badge&logo=nuxt.js&logoColor=white" />
   </a>
-
 </p>
 
 ---
@@ -127,10 +122,9 @@ _April 2024 – August 2024_
 
 **🎓 B.Sc. Software Engineering** | Wachemo University (2021-2025)  
 
+
 **📊 Data Analysis Fundamentals** | Udacity (July 2025)  
 - Python, SQL, Data Wrangling, Exploratory Data Analysis
-
-
 
 ---
 
@@ -156,7 +150,6 @@ _April 2024 – August 2024_
 
 ---
 
----
 
 ### 🧿 Profile Views
 <p align="left">
