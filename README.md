@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://github.com/Gu2-T/Gu2-T/blob/main/assets/banner-dark.png" width="100%" alt="Gutu Tamiru Banner" />
+  <img src="https://github.com/Gu2-T/Gu2-T/blob/main/assets/banner.png" width="100%" alt="Gutu Tamiru Banner" />
 </p>
 
 <h1 align="center">👋 Hello, I'm <strong>Gutu Tamiru Abdisa</strong></h1>
