@@ -63,19 +63,6 @@ I aim to bridge creativity and logic through code.
 
 ---
 
-### 🌍 Featured Projects  
-
-#### 🧹 [Maid Finder System](https://github.com/Gu2-T/MaidFinder-Backend)
-> A digital platform that connects households with verified maids.  
-> Built using **Laravel**, featuring **role-based access control**, **profile verification**, and **secure APIs**.
-
-#### 👥 [Employee Management System](#)
-> A web app for managing employees, attendance, and roles using **Laravel + Vue.js** with **JWT authentication**.
-
-#### 🔎 [Reunited Us](#)
-> A missing-person management platform built with **Laravel API + Nuxt.js frontend** supporting **photo uploads** and **admin reviews**.
-
----
 
 ---
 
