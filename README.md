@@ -132,39 +132,56 @@ _April 2024 – August 2024_
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gu2-T&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu2-T&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gu2-T&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gu2-T&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gu2-T&theme=radical&hide_border=true&fire=DD2727&currStreakNum=DD2727" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🧿 Profile Analytics
+### 🧭 Currently Exploring  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gu2-T&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Gu2-T.Gu2-T&style=for-the-badge" alt="Visitors" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGu2-T&label=Visitors&countColor=%23263759&style=for-the-badge" alt="Visitor Badge" />
-</p>
+- Advanced **Next.js 15** & **Server Actions**  
+- **Microservices** and **Scalable APIs**  
+- **CI/CD** pipelines & **DevOps tools** like Docker and Jenkins  
+- **Data Engineering** concepts and tools
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gu2-T&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+---
+
+
+### 🧿 Profile Views
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Gu2-T&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
 ---
 
-### 📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-No activity data available. 
-Visit https://wakatime.com to add coding activity tracking.
+### 🤝 Let's Connect
+📧 **Email** — gututamiru2011@gmail.com  
+🌐 **Portfolio** — https://gu2-portfolio.vercel.app  
+🔗 **LinkedIn** — https://linkedin.com/in/gutu-tamiru-377b74360  
+🐙 **GitHub** — https://github.com/Gu2-T
+
+---
+
+### ⚡ Fun Fact  
+> I build systems that help people — not just apps that look good.  
+> From reuniting families to streamlining HR processes, I believe in code with purpose.
+
+---
+
+<h3 align="center">⭐ "Code. Learn. Build. Grow." ⭐</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</p>
+
+
+
+on profile view i need to check who person check my github
