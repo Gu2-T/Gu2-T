@@ -126,6 +126,7 @@ _April 2024 – August 2024_
 
 **🎓 B.Sc. Software Engineering** | Wachemo University (2021-2025)  
 
+
 **📊 Data Analysis Fundamentals** | Udacity (July 2025)  
 - Python, SQL, Data Wrangling, Exploratory Data Analysis
 
@@ -133,15 +134,10 @@ _April 2024 – August 2024_
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gu2-T&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gu2-T&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -154,6 +150,7 @@ _April 2024 – August 2024_
 - **Data Engineering** concepts and tools
 
 ---
+
 
 ### 🧿 Profile Views
 <p align="left">
@@ -181,3 +178,7 @@ _April 2024 – August 2024_
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 </p>
+
+
+
+on github stats what about image
