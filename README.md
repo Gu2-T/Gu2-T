@@ -157,13 +157,6 @@ _April 2024 – August 2024_
   <img src="https://komarev.com/ghpvc/?username=Gu2-T&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
----
-
-### 🤝 Let's Connect
-📧 **Email** — gututamiru2011@gmail.com  
-🌐 **Portfolio** — https://gu2-portfolio.vercel.app  
-🔗 **LinkedIn** — https://linkedin.com/in/gutu-tamiru-377b74360  
-🐙 **GitHub** — https://github.com/Gu2-T
 
 ---
 
