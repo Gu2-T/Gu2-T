@@ -132,15 +132,6 @@ _April 2024 – August 2024_
 
 ---
 
-### 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gu2-T&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ### 🧭 Currently Exploring  
 
